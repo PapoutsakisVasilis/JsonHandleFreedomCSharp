@@ -1,0 +1,6 @@
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\bin\Debug\netstandard2.0\JsonHandleFreedomLibrary.deps.json
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\bin\Debug\netstandard2.0\JsonHandleFreedomLibrary.dll
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\obj\Debug\netstandard2.0\JsonHandleFreedomLibrary.csprojAssemblyReference.cache
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\obj\Debug\netstandard2.0\JsonHandleFreedomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\obj\Debug\netstandard2.0\JsonHandleFreedomLibrary.AssemblyInfoInputs.cache
+C:\Users\vpapo\source\repos\JsonHandleFreedomLibrary\JsonHandleFreedomLibrary\obj\Debug\netstandard2.0\JsonHandleFreedomLibrary.AssemblyInfo.cs
